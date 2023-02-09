@@ -1,5 +1,4 @@
-name: MinigameAPI
+name: SyperGame
 version: '${project.version}'
-main: online.bingulhan.minigameapi.MinigameAPI
-authors: [ BingulHan ]
-description: Basic MinigameAPI
+main: lu.kainovaii.sypergame.Main
+authors: [ KainoVaii ]
